@@ -1,0 +1,1 @@
+This is week 3 assignment, I have created the calculate_discount function and invoked it 
